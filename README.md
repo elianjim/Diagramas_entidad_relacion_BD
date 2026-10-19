@@ -1,1 +1,0 @@
-# Diagramas_entidad_relacion_BD
